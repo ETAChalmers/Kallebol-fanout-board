@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\johan\OneDrive\Dokument\KiCad\KallebolFanoutBoard\KallebolFanoutBoard.kicad_sch</source>
+    <date>2022-04-19 10:09:25</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Kallebol-computer-fanout</title>
+        <company>SK6AB</company>
+        <rev>1</rev>
+        <date>2022-04-02</date>
+        <source>KallebolFanoutBoard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78650d40-c2a8-4bf4-b113-06c70c88998d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14f5b765-e874-4613-8184-2836257a26a4</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4501b54a-1ffe-4524-b673-4a3777f3ed69</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28b6d3e9-1ab7-438c-afba-21dbb8e2627e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdecfbac-8986-4f49-979c-93126f3fa4b3</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dfca3c8-1ecc-44e1-81b5-40a2d43c452a</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d35546e2-8880-4e9c-bfd6-fa41a0ffd1c7</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>33uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x6.9</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08b573ba-6628-405f-aea8-583003b1376e</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>33uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x6.9</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>011607d0-b066-49a3-91f8-ab28468516a7</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>33uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x6.9</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>048e281c-dff2-41a5-a4cf-a723068a941b</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>33uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x6.9</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a520634e-2e7c-4178-9df2-d38631cdd6b2</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0430c6f5-9504-4a3e-9ebb-05dab2b33dae</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1f5aac5-351c-4987-8650-f71e7a73dae2</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>042dace6-ceda-4b77-94b4-a1a8ac8f4447</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc8cf659-b214-488f-903f-7fdfeb9dc6ee</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>33uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x6.9</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66fd1eae-d8f1-4b2c-95c5-bc352f24bf11</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>3Vz?</value>
+      <footprint>Diode_THT:D_A-405_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baee00ff-051c-4d9c-a299-4919e864a573</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_TVS</value>
+      <footprint>Diode_THT:D_A-405_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c17196-ff94-4a8c-82ae-f67ce995b99f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cfb5808-268f-4be3-9f2a-292627e9f757</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb950512-ab6c-4491-a43f-af7837f28096</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69548de4-5347-4b25-b786-e5a8d673a442</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dce7e84-f530-4593-bffd-630cc5a406c2</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0822c4e2-679b-4e4c-81ad-e1ca1304406b</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2edc27de-2297-492e-bfdb-d3dea19720df</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ea677f8-e4a9-4d85-999e-f4e7f9a3e0e6</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee952897-164b-4834-95fb-a83d03fdf976</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>GPIO1 - 43025-0800</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical</footprint>
+      <datasheet>https://www.mouser.se/datasheet/2/276/3/0430250800_CRIMP_HOUSINGS-2876900.pdf</datasheet>
+      <fields>
+        <field name="Datasheet2">https://www.manualslib.com/manual/1534546/Technexion-Tek3-Imx6.html?page=14#manual</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Datasheet2" value="https://www.manualslib.com/manual/1534546/Technexion-Tek3-Imx6.html?page=14#manual"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e57fdc8c-6a14-48ec-8aac-9ec6524b210a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>GPIO2 - 43025-0800</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0812_2x04_P3.00mm_Vertical</footprint>
+      <datasheet>https://www.mouser.se/datasheet/2/276/3/0430250800_CRIMP_HOUSINGS-2876900.pdf</datasheet>
+      <fields>
+        <field name="Datasheet2">https://www.manualslib.com/manual/1534546/Technexion-Tek3-Imx6.html?page=14#manual</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Datasheet2" value="https://www.manualslib.com/manual/1534546/Technexion-Tek3-Imx6.html?page=14#manual"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8528ea66-0628-458e-92ae-e3d4707e7239</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>RS232 - 43025-1000</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-1012_2x05_P3.00mm_Vertical</footprint>
+      <datasheet>https://eu.mouser.com/datasheet/2/276/3/0430251000_CRIMP_HOUSINGS-2832694.pdf</datasheet>
+      <fields>
+        <field name="Datasheet2">https://www.manualslib.com/manual/1534546/Technexion-Tek3-Imx6.html?page=20#manual</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x10" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Datasheet2" value="https://www.manualslib.com/manual/1534546/Technexion-Tek3-Imx6.html?page=20#manual"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef3809a7-f125-41f2-9f15-d94c0206f12a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2cbebff-c0d3-4637-9c69-be8aceecd0ef</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>DB9_Female_MountingHoles</value>
+      <footprint>Connector_Dsub:DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="DB9_Female_MountingHoles" description="9-pin female D-SUB connector, Mounting Hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67641771-65cf-4044-813c-d03fbdffe353</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>DB9_Female_MountingHoles</value>
+      <footprint>Connector_Dsub:DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="DB9_Female_MountingHoles" description="9-pin female D-SUB connector, Mounting Hole"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e44b30b3-96d0-4c1e-910c-f44e41aaf893</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_Coaxial</value>
+      <footprint>Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39bba2de-58c8-476c-98e2-bfd08f6032b9</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector:FanPinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30d93464-32bd-40f3-a6ed-5806fbc3cb8b</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89e3f95c-c7da-4538-a83c-4c7c3518ca51</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x10_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x10_Male" description="Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d44b2a6d-a652-44ca-9920-07c44c178092</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a89866b9-61c9-4344-abe4-88146af4ace5</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>250865be-ec43-4bcc-8fed-67cbebb73163</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9cc8aab-bfca-4d68-850e-b81fba1853a5</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2da3d255-5991-4eed-9b9c-d9efb6394790</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1efd950e-0e20-4471-af8f-b789e1863354</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b45fbe0-6a51-4f45-a468-1e9af7098808</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12aeba47-4143-4863-a520-dab58b111b08</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_Altech_AK300-4_P5.00mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65cf255c-0475-4e93-9941-8b03b059c9c6</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BCW31 NPN SOT23</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23_HandSoldering</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17ae583e-035a-4488-9893-6539fb136116</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BCW31 NPN SOT23</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23_HandSoldering</footprint>
+      <libsource lib="Device" part="Q_NPN_BEC" description="NPN transistor, base/emitter/collector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66f05ede-399b-4d52-8103-f1b5d329b813</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2d18841-d7d6-4656-bbdb-e52e403016e9</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8067a1a3-77f7-4623-8bf8-6b09a8d244b2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d0d6c21-ca7d-46f8-a9d5-1044de400a1a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>223c550b-43c4-47d5-aa3f-4b2ab98736a1</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56cf810f-4f30-4902-b6d0-d1251f00dff8</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8bfb9c3-79f5-4d60-8415-eb5d9a1dd518</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15e816f9-f3f5-470a-ba8c-baa5c0b78336</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfcd9d74-1ecd-4585-b5ea-772f0d755bdd</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cc26081-e49e-4680-81c4-c50844f7de81</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>33</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01339e18-df09-40a7-9b2d-8bc8cf3ef4ba</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c594478d-08f2-4dae-925b-f60778e5db9d</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8087610c-6862-4c8d-8a7b-d083cba89e2a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efc7a2ad-374c-4174-94ae-4fffc603d016</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e546cbd-9f3d-4d31-9fe0-d14244365b0a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f47f97b-b520-4826-ba98-e4fb55645d89</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9e922ba-9453-406b-80cf-b7cd4cdf41d3</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acfd4eb9-f193-43e5-9652-fee71e20b86e</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e3d12b6-0940-4a1b-b299-50e303868f40</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>16.5k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96a72112-ba15-4cfb-82a6-0b73042cb21b</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d11ff4c-5334-447e-9219-a0ae37faedf6</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4cce8ae-bdda-42f8-a1af-62abf9870c92</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2af885a8-38bb-4e65-b90c-6c0a01eeb3bb</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>1k?</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b6e4c14-46ad-44da-a644-7dd34bbbeb4e</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>1k?</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a589c3c-e1ec-4c7c-9787-6fb2debe779f</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>100?</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0f4ebcd-a2e4-4f92-9ae9-0cc7be1fb461</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>100?</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72200bf1-090d-424c-bd26-de12997082af</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a016b61-fb72-4cf6-8ee6-965cd20b8993</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>1k?</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0865765a-1e8a-4a96-aba1-3ad7f147a22f</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>1k?</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcdc9d6b-f4d9-4926-b6d4-f9c5793175f6</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>137c2b0b-e162-4da6-ad50-6ac8359a1427</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c195f637-f541-4c73-adf1-d4a7ff80cabd</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d5cec1a-fb86-4bb2-893f-2df6ad8a53e0</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>842ed0d4-6bb0-430c-9f52-2efce4a6dd83</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5654331-4417-4ddf-83d8-2d32afdebcac</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f366f17-0e5b-49d4-b2d8-b73f6be8d859</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fea51bcd-d1e1-461f-95ec-601bc3ba551a</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f42f455-be9c-4bd8-b02d-5119af943cb4</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1ac2954-774f-466f-baa4-4b67c8e91093</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c49a9ee4-7527-4c68-ba85-a89a325d7782</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4357033-8277-416b-98e8-517e92d5982a</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25b5b177-51c9-49ad-b67c-0ffcbbf4bc4e</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33ca9403-d620-4508-ba4b-347aeea1a3e5</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df74e0d9-b4fb-4dde-bc3d-bf0b689155ce</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ab0c40b-5801-4fe3-9198-68cb23ee1706</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b52e9f4-9a78-4745-b03e-bf658de0cbe4</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf2785c2-fba0-4381-99ef-3097a8c6b330</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2082642e-195c-4731-80d9-7f3294af19fe</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AP7361C-33E</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP7361C.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AP7361C-33E" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e5c190e-cda4-456a-a275-daad0b0e810e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM317_TO-252</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-2</footprint>
+      <datasheet>http://www.ti.com/lit/ds/snvs774n/snvs774n.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LM317_TO-252" description="1.5A 35V Adjustable Linear Regulator, TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01ef7d43-fe24-4e96-ba58-a1783ba3d8bf</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>PCT2075D</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf</datasheet>
+      <libsource lib="Sensor_Temperature" part="PCT2075D" description="NXP I2C-bus Fm+ digital temperature sensor and thermal watchdog, SO-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d4059b7-4edb-41dc-ae0c-a2e26c351695</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>FDS4435</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <libsource lib="0xHankCAD" part="FDS4435" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25da572-c3da-42f3-b38a-9e8a0819e132</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>FDS4435</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <libsource lib="0xHankCAD" part="FDS4435" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58b72852-f915-4286-89c2-849f5253667e</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>FDS4435</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <libsource lib="0xHankCAD" part="FDS4435" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ebba8ec-40d2-45e7-a3c5-0fc5df9d634f</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>74HC139</value>
+      <footprint>Package_SO:TSSOP-16_4.4x5mm_P0.65mm</footprint>
+      <libsource lib="0xHankCAD" part="74HC139" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7813be6-2afd-4c51-84f4-fe0623906925</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>PCA9535</value>
+      <footprint>Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm</footprint>
+      <libsource lib="0xHankCAD" part="PCA9535" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="KallebolFanoutBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05210793-8230-4326-98fa-a7e0ca32b22e</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="0xHankCAD" part="74HC139">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC139</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1E_N" type="input"/>
+        <pin num="2" name="1A0" type="input"/>
+        <pin num="3" name="1A1" type="input"/>
+        <pin num="4" name="1Y0_N" type="output"/>
+        <pin num="5" name="1Y1_N" type="output"/>
+        <pin num="6" name="1Y2_N" type="output"/>
+        <pin num="7" name="1Y3_N" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="2Y3_N" type="output"/>
+        <pin num="10" name="2Y2_N" type="output"/>
+        <pin num="11" name="2Y1_N" type="output"/>
+        <pin num="12" name="2Y0_N" type="output"/>
+        <pin num="13" name="2A1" type="input"/>
+        <pin num="14" name="2A0" type="input"/>
+        <pin num="15" name="2E_N" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="0xHankCAD" part="FDS4435">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FDS4435</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="bidirectional"/>
+        <pin num="2" name="S" type="bidirectional"/>
+        <pin num="3" name="S" type="bidirectional"/>
+        <pin num="4" name="G" type="bidirectional"/>
+        <pin num="5" name="D" type="bidirectional"/>
+        <pin num="6" name="D" type="bidirectional"/>
+        <pin num="7" name="D" type="bidirectional"/>
+        <pin num="8" name="D" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="0xHankCAD" part="PCA9535">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9535</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INT_N" type="output"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="IO0_0" type="bidirectional"/>
+        <pin num="5" name="IO0_1" type="bidirectional"/>
+        <pin num="6" name="IO0_2" type="bidirectional"/>
+        <pin num="7" name="IO0_3" type="bidirectional"/>
+        <pin num="8" name="IO0_4" type="bidirectional"/>
+        <pin num="9" name="IO0_5" type="bidirectional"/>
+        <pin num="10" name="IO0_6" type="bidirectional"/>
+        <pin num="11" name="IO0_7" type="bidirectional"/>
+        <pin num="12" name="VSS" type="power_in"/>
+        <pin num="13" name="IO1_0" type="bidirectional"/>
+        <pin num="14" name="IO1_1" type="bidirectional"/>
+        <pin num="15" name="IO1_2" type="bidirectional"/>
+        <pin num="16" name="IO1_3" type="bidirectional"/>
+        <pin num="17" name="IO1_4" type="bidirectional"/>
+        <pin num="18" name="IO1_5" type="bidirectional"/>
+        <pin num="19" name="IO1_6" type="bidirectional"/>
+        <pin num="20" name="IO1_7" type="bidirectional"/>
+        <pin num="21" name="A0" type="input"/>
+        <pin num="22" name="SCL" type="input"/>
+        <pin num="23" name="SDA" type="bidirectional"/>
+        <pin num="24" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x10_Male">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="DB9_Female_MountingHoles">
+      <description>9-pin female D-SUB connector, Mounting Hole</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>DSUB*Female*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DB9_Female_MountingHoles</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="0" name="PAD" type="passive"/>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x10">
+      <description>Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x10</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BEC">
+      <description>NPN transistor, base/emitter/collector</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BEC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AP7361C-33E">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP7361C.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP7361C-33E</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP7361C.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM317_TO-252">
+      <description>1.5A 35V Adjustable Linear Regulator, TO-252</description>
+      <docs>http://www.ti.com/lit/ds/snvs774n/snvs774n.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_TO-252</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/snvs774n/snvs774n.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Temperature" part="PCT2075D">
+      <description>NXP I2C-bus Fm+ digital temperature sensor and thermal watchdog, SO-8</description>
+      <docs>https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf</docs>
+      <footprints>
+        <fp>SO*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCT2075D</field>
+        <field name="Footprint">Package_SO:SO-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="bidirectional"/>
+        <pin num="2" name="SCL" type="input"/>
+        <pin num="3" name="OS" type="open_collector"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="A2" type="input"/>
+        <pin num="6" name="A1" type="input"/>
+        <pin num="7" name="A0" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="0xHankCAD">
+      <uri>C:/Users/johan/OneDrive/Dokument/KiCad/6.0/symbols/0xHankCAD.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Temperature">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Sensor_Temperature.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U7" pin="15" pinfunction="2E_N" pintype="input"/>
+      <node ref="U7" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="21" pinfunction="A0" pintype="input"/>
+      <node ref="U8" pin="24" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VI" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U5" pin="1" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U5" pin="3" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="S" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="S" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/1A_CTS">
+      <node ref="J5" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/1A_RTS">
+      <node ref="J5" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/1A_RXD">
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/1A_TXD">
+      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/1B_CTS">
+      <node ref="J6" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/1B_RTS">
+      <node ref="J6" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="/1B_RXD">
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/1B_TXD">
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/1_3GHZ_LNA_12V">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U5" pin="6" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U5" pin="8" pinfunction="D" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/1_3GHZ_LNA_EN">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="IO0_2" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/10_5GHZ_LNB_EN">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="IO0_3" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/10_5GHz_LNB_12V">
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U4" pin="7" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U4" pin="8" pinfunction="D" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/GPIO1A">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/GPIO1B">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="/GPIO1C">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/GPIO1D">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="/GPIO2A">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/GPIO2B">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/GPIO2C">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="/GPIO2D">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/GPIO_1C">
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/IO_04">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="IO0_4" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/IO_05">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="9" pinfunction="IO0_5" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/IO_06">
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U8" pin="10" pinfunction="IO0_6" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/IO_07">
+      <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U8" pin="11" pinfunction="IO0_7" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/IO_10">
+      <node ref="J16" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U8" pin="13" pinfunction="IO1_0" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/IO_11">
+      <node ref="J16" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U8" pin="14" pinfunction="IO1_1" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/IO_12">
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="15" pinfunction="IO1_2" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/IO_13">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="16" pinfunction="IO1_3" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/IO_14">
+      <node ref="J17" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U8" pin="17" pinfunction="IO1_4" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/IO_15">
+      <node ref="J17" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U8" pin="18" pinfunction="IO1_5" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/IO_16">
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="19" pinfunction="IO1_6" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/IO_17">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="20" pinfunction="IO1_7" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/IO_IRQ">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="INT_N" pintype="output"/>
+    </net>
+    <net code="38" name="/MUX_A0">
+      <node ref="U7" pin="2" pinfunction="1A0" pintype="input"/>
+      <node ref="U8" pin="4" pinfunction="IO0_0" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/MUX_A1">
+      <node ref="U7" pin="3" pinfunction="1A1" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="IO0_1" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/P12V_INPUT">
+      <node ref="D2" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U6" pin="7" pinfunction="D" pintype="bidirectional"/>
+      <node ref="U6" pin="8" pinfunction="D" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/P12V_RETURN">
+      <node ref="D2" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="/PTT">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="/Port1">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="1Y0_N" pintype="output"/>
+    </net>
+    <net code="44" name="/Port2">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="1Y1_N" pintype="output"/>
+    </net>
+    <net code="45" name="/Port3">
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="1Y2_N" pintype="output"/>
+    </net>
+    <net code="46" name="/Port4">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="1Y3_N" pintype="output"/>
+    </net>
+    <net code="47" name="/SCL">
+      <node ref="J18" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="SCL" pintype="input"/>
+      <node ref="U8" pin="22" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="48" name="/SDA">
+      <node ref="J18" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U8" pin="23" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/SERIAL1A_CTS">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="/SERIAL1A_RTS">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="/SERIAL1A_RXD">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="/SERIAL1A_TXD">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="/SERIAL1B_CTS">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="/SERIAL1B_RTS">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="/SERIAL1B_RXD">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="/SERIAL1B_TXD">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="/TEMP_IRQ">
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="OS" pintype="open_collector"/>
+    </net>
+    <net code="58" name="/UART_RX">
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="/UART_TX">
+      <node ref="J13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H8" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J10" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J18" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="0" pinfunction="PAD" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J6" pin="0" pinfunction="PAD" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="1E_N" pintype="input"/>
+      <node ref="U7" pin="13" pinfunction="2A1" pintype="input"/>
+      <node ref="U7" pin="14" pinfunction="2A0" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="12" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U8" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="G" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="G" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="G" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(R20-Pad1)">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="70" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="A2" pintype="input"/>
+    </net>
+    <net code="71" name="unconnected-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(J1-Pad8)">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(J2-Pad7)">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(J2-Pad8)">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(J5-Pad4)">
+      <node ref="J5" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(J5-Pad6)">
+      <node ref="J5" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(J5-Pad9)">
+      <node ref="J5" pin="9" pinfunction="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(J6-Pad1)">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(J6-Pad4)">
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(J6-Pad6)">
+      <node ref="J6" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(J6-Pad9)">
+      <node ref="J6" pin="9" pinfunction="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(J8-Pad2)">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(J10-Pad6)">
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(J10-Pad7)">
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(J10-Pad8)">
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(J10-Pad9)">
+      <node ref="J10" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U7-Pad9)">
+      <node ref="U7" pin="9" pinfunction="2Y3_N" pintype="output+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U7-Pad10)">
+      <node ref="U7" pin="10" pinfunction="2Y2_N" pintype="output+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U7-Pad11)">
+      <node ref="U7" pin="11" pinfunction="2Y1_N" pintype="output+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U7-Pad12)">
+      <node ref="U7" pin="12" pinfunction="2Y0_N" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
